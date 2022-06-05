@@ -2,6 +2,7 @@ E-commerce Web app built with Nextjs, Sanity, Stripe.
 
 Hosted on Vercel.
 
+
 With following pages:
 
 -Home page that consists of top navigation, top banner, product list, bottom banner, footer.
