@@ -1,4 +1,4 @@
-E-commerce Web app built with Nextjs, Sanity, Stripe.
+# E-commerce Web app built with Nextjs, Sanity, Stripe.
 
 Hosted on Vercel.
 
