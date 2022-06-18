@@ -27,10 +27,6 @@ export const getServerSideProps = async () => {
 	const bannerQuery = `*[_type == "banner"]`
 	const bannerData = await client.fetch(bannerQuery)
 	
-	res.setHeader(
-    	'Cache-Control',
-    	'public, s-maxage=10, stale-while-revalidate=59'
-  	)
 
 	return {
 		props: {
